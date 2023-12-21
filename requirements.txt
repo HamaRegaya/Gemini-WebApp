@@ -1,0 +1,14 @@
+google-ai-generativelanguage
+google-cloud-aiplatform
+langchain-google-genai
+google-search-results
+google-cloud-storage
+google-generativeai
+trulens-eval==0.18.2
+llama-index==0.9.11
+python-dotenv
+streamlit
+langchain
+faiss-cpu
+PyPDF2
+gtts

@@ -1,0 +1,5 @@
+.venv
+.streamlit
+default.sqlite
+output.wav
+GoogleCloudSecret.json
